@@ -136,7 +136,7 @@ https://www.tamilbliss.com/v/vijay/2703sn/sd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585666814/ei/ngaDXs_bGoyC1wKcx76oBg/ip/118.100.73.202/id/U_XsRZXL2Ic.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgSPaZ7V5aQEsm3V2wkBDJVekisfFQBfHmYwIXQc6XVGgCIQCZ8dNCqnE84Y-x7ticx6rQngImxI0QEbDvpQ_7Ns1HjQ%3D%3D/file/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=U_XsRZXL2Ic
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Bername TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585675511/ei/lyiDXp3XFoSC6dsPls6SCA/ip/118.100.73.202/id/Bh5dqmsu2bA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgIsiIhfuUBCIDN7z1aBGB38VpilhWvBaMy5A2Xj2xVJUCIBRA21z1UOKvXIBuVl_a5Te9YcdZzRc_3Z-eFmgxcgsC/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Al Jazeera English
