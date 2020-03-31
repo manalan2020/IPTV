@@ -137,18 +137,18 @@ https://www.tamilbliss.com/v/vijay/2703sn/sd/playlist.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",CNA
 plugin://plugin.video.youtube/play/?video_id=U_XsRZXL2Ic
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Bername TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585675511/ei/lyiDXp3XFoSC6dsPls6SCA/ip/118.100.73.202/id/Bh5dqmsu2bA.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgIsiIhfuUBCIDN7z1aBGB38VpilhWvBaMy5A2Xj2xVJUCIBRA21z1UOKvXIBuVl_a5Te9YcdZzRc_3Z-eFmgxcgsC/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Bernama TV
+plugin://plugin.video.youtube/play/?video_id=Bh5dqmsu2bA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Al Jazeera English
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585675712/ei/YCmDXujWL5mT4gHrz4HQAw/ip/118.100.73.202/id/WisZM9CMlTo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIgKFta--gqBY6_uXnndKHBmr9txNXkJaP9f7LBclEHySwCIQDJPg-K9pDX3pDLVfpOUU-_Y1xgapIPYOiUEdonB8S_gg%3D%3D/file/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=WisZM9CMlTo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Sun News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585675934/ei/PiqDXu_HI9nngQeT27ygDw/ip/118.100.73.202/id/oNIzumZt1-U.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgA0sFgIRVhuvpOCuVkD6WKmoemET3-aeKB98z0joQ6msCIQDO0jJr0V7XpSuJplOvKAJem9fntYUwZcuBg1jihpRgog%3D%3D/file/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=oNIzumZt1-U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Kalaignar Seithigal
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585676075/ei/yyqDXuzhDJbh1wK-462YDA/ip/118.100.73.202/id/_syV1M9Y45M.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgeqUi2aq5lqeKYCtOkBU_btcLp6edrTzQ6NgInqtnurYCIGep8wRPp6aIztw7_pI9w9ZmfvqEQlgdoktxFyV-nKrN/file/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=_syV1M9Y45M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",India CNN News18
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585676235/ei/aiuDXsu1OJrZgQfXopCQDA/ip/118.100.73.202/id/UgySOthQ4Vw.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgByZABHKWbpbRCQsfJdqbSdR_AYypsWBV3SacIMKNQ-gCIH9HDYJf7tapDzcLsN1_l_lDGts1xS152RPvln3_I0Z6/file/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=UgySOthQ4Vw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Sky News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585676331/ei/yyuDXt6bL4zUgQeeipmAAQ/ip/118.100.73.202/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhALfaE55CqkziDuRRwqIz3dLJWeTKXLsZWF5S8Q3pkRiFAiATq9ew_L0fcfbUTIObKYQNBG4LNQwTK7wmzXWqbfTiQw%3D%3D/file/index.m3u8
+plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Cartoon",Tom & Jerry
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585678238/ei/PjODXvHxD8iN7gPdnrj4CA/ip/118.100.73.202/id/QO55pZxTiio.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAJNkV3hdbzyLffgNR02UTK9UzolqVwCikHCtjRqVev5aAiEArVYuaMFM0uvj3cXb3b9fOIj-k2K3xhNmFTfydl3f2Gg%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDpuCP2NVE9MFhetyg6L62Be9Uk6qc27Ti9g-KNLsjSAmrnPgD&usqp=CAU" group-title="Cartoon",Tom & Jerry
+plugin://plugin.video.youtube/play/?video_id=BRkQ-ZGiNbc
