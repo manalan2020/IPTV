@@ -138,7 +138,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",CNA
 plugin://plugin.video.youtube/play/?video_id=U_XsRZXL2Ic
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Bernama TV
-plugin://plugin.video.youtube/play/?video_id=Bh5dqmsu2bA
+plugin://plugin.video.youtube/play/?video_id=PTfVFF5DWqU
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Al Jazeera English
 plugin://plugin.video.youtube/play/?video_id=WisZM9CMlTo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pngimg.com/uploads/tv/tv_PNG39251.png" group-title="Live TV",Sun News
