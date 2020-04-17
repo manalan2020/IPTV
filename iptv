@@ -166,3 +166,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 http://livecdnh1.tvanywhere.ae/hls/lanatv/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDpuCP2NVE9MFhetyg6L62Be9Uk6qc27Ti9g-KNLsjSAmrnPgD&usqp=CAU" group-title="To be sorted",Zoom
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDpuCP2NVE9MFhetyg6L62Be9Uk6qc27Ti9g-KNLsjSAmrnPgD&usqp=CAU" group-title="Radio",THR
+http://astro3.rastream.com/raaga
