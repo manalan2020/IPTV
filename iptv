@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDpuCP2NVE9MFhetyg6L62Be9Uk6qc27Ti9g-KNLsjSAmrnPgD&usqp=CAU" group-title="Radio",THR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-Eu5oVVHIAic/Vsh0uTNceJI/AAAAAAAAGEo/qgmzT7tlFmg/s1600/thr%2Braaga.png" group-title="Radio",THR
 http://astro3.rastream.com/raaga
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTDpuCP2NVE9MFhetyg6L62Be9Uk6qc27Ti9g-KNLsjSAmrnPgD&usqp=CAU" group-title="Radio",Minnal FM
-http://astro3.rastream.com/raaga
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/15/b2/15b22bce891a4e5cabd534f8b80894da.jpg" group-title="Radio",Minnal FM
+https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
