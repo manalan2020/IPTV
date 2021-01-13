@@ -10,7 +10,10 @@ https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch
 http://5.135.154.91:8302/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Radio",LankaSri
-http://149.202.22.75:8032/listen.pls
+http://149.202.121.175:8080/live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Radio",IBC Tamil
-http://38.96.148.226:6176/listen.pls
+http://38.96.148.226:6176/
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Radio",Varnam
+http://s3.voscast.com:8402/
