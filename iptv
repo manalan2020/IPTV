@@ -6,8 +6,11 @@ http://astro3.rastream.com/raaga
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/cache/15/b2/15b22bce891a4e5cabd534f8b80894da.jpg" group-title="Radio",Minnal FM
 https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/1290352/original/resize:248x186/crop:x0y0w248h186/hash:1467136453/166356_130642427002163_124607737605632_187291_2244695_n.jpg" group-title="Radio",LankaSri
-http://149.202.22.75:8032/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Radio",ClubHouse Tamil Radio
+http://5.135.154.91:8302/
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.zoftcdn.com/branding/ibctamil/ibctamil_1.png" group-title="Radio",IBC Tamil
-http://38.96.148.226:6176/listen.pls?sid=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Radio",LankaSri
+http://149.202.22.75:8032/listen.pls
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Radio",IBC Tamil
+http://38.96.148.226:6176/listen.pls
